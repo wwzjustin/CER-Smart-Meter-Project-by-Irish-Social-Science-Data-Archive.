@@ -1,0 +1,882 @@
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:3){#
+    	  test<-grep(first_list$V1[3], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                   }     #
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:3){#
+    	  test<-grep(first_list$V1[3], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                   }     #
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign
+for(j in 1:3){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                   }     #
+len1<-nrow(dt_rm_1st)
+len1
+for(j in 1:2){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                   }     #
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:2){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                   }     #
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[1], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[2], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[3], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[4], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[5], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[6], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[7], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[8], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[9], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[10], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+len0
+test<-grep(first_list$V1[1], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[1], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+len0
+dt_rm_1st
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[2], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  # }     #
+len1<-nrow(dt_rm_1st)
+len1
+len1-len0
+for(j in 1:2){#
+    	  test<-grep(first_list$V1[2], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                   }     #
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:2){#
+    	  test<-grep(first_list$V1[2], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                   }     #
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:2){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                   }     #
+len1<-nrow(dt_rm_1st)
+len1
+len1-len0
+15124+22599
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[2], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)
+len1
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)
+len1
+len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[3], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[4], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[4], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[5], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[6], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[6], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[10], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len0
+t_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[7], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[8], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+#for(j in 1:2){#
+    	  test<-grep(first_list$V1[9], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:11){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                 #  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+``
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:11){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:4){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:10){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:11){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:10){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:11){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+dt_rm_1st<-dt_rm_1st[-test, ]
+dt_rm_1st <- dt_assign
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]
+len1<-nrow(dt_rm_1st)
+len
+len1
+len0
+dt_rm_1st <- dt_assign#
+#
+for(j in 10:11){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0#
+\
+len1
+len0
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:11){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+j
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:10){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+for(j in 11:12){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:10){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_sum_1st$domain
+dt_rm_1st$domain
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+dt_rm_1st<-dt_rm_1st[-test, ]
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:10){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+j
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+test
+test<-grep(first_list$V1[12], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+test
+for(j in 1:9){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:9){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+j
+test<-grep(first_list$V1[10], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+test
+dt_rm_1st<-dt_rm_1st[-test, ]
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:10){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+test
+first_list$V1[11]
+dt_rm_1st
+dt_rm_1st <- dt_assign
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+test
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+dt_rm_1st<-dt_rm_1st[-test, ]
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+dt_rm_1st<-dt_rm_1st[-test, ]
+len1<-nrow(dt_rm_1st)
+len
+len1
+for(j in 1:10){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+first_list
+dtr_rm_1st$domain
+dt_rm_1st$domain
+len1<-nrow(dt_rm_1st)
+len1
+test<-grep(first_list$V1[11], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+tes
+test
+is.integer0 <- function(x)            #use this function for the condition in 'if'#
+{#
+  is.integer(x) && length(x) == 0L#
+}#
+# check if registrant [i] is in the 1st party list, if yes, tag=1#
+first_rm<- NULL#
+third_rm<-NULL#
+test<-NULL#
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:10){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer(test)== F) {#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+              j=j+1}#
+            else j=j+1#
+                  }
+len1<-nrow(dt_rm_1st)
+len1
+dt_rm_1st <- dt_assign
+test
+is.integer0(test)== F
+# check if registrant [i] is in the 1st party list, if yes, tag=1#
+first_rm<- NULL#
+third_rm<-NULL#
+test<-NULL#
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:10){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+              j=j+1}#
+            else j=j+1#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+# check if registrant [i] is in the 1st party list, if yes, tag=1#
+first_rm<- NULL#
+third_rm<-NULL#
+test<-NULL#
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:11){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+              j=j+1}#
+            else j=j+1#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+# check if registrant [i] is in the 1st party list, if yes, tag=1#
+first_rm<- NULL#
+third_rm<-NULL#
+test<-NULL#
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:100){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+              j=j+1}#
+            else j=j+1#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+nrow(first_list)
+for(j in 1:nrow(first_list)){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            #first_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+              j=j+1}#
+            else j=j+1#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1
+test<-NULL#
+dt_rm_3rd <- dt_rm_1st
+third_list
+test<-grep(third_list$V2[1], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+test
+test<-grep(third_list$V2[2], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+tes
+test
+third_list
+test<-grep('adobe', dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+test
+third_list$V2[1]
+test<-grep(third_list$V2[1], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar
+test
+nrow(third_list)
+test<-NULL#
+dt_rm_3rd <- dt_rm_1st#
+ for(i in 1:nrow(third_list)){#
+    	  test<-grep(third_list$V2[i], dt_rm_3rd$domain,value=F)  # grep is checking if string pattern is similar#
+            #third_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_3rd<-dt_rm_3rd[-test, ]#
+              i=i+1}#
+            else i=i+1#
+                  }     #
+len2<-nrow(dt_rm_1st)#
+len2-len1
+len1
+len2
+dt_rm_3rd <- dt_rm_1st#
+ for(i in 1:10){#
+    	  test<-grep(third_list$V2[i], dt_rm_3rd$domain,value=F)  # grep is checking if string pattern is similar#
+            #third_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_3rd<-dt_rm_3rd[-test, ]#
+              i=i+1}#
+            else i=i+1#
+                  }     #
+len2<-nrow(dt_rm_1st)#
+len2-len1
+test<-NULL#
+dt_rm_3rd <- dt_rm_1st#
+ for(i in 1:2){#
+    	  test<-grep(third_list$V2[i], dt_rm_3rd$domain,value=F)  # grep is checking if string pattern is similar#
+            #third_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_3rd<-dt_rm_3rd[-test, ]#
+              i=i+1}#
+            else i=i+1#
+                  }     #
+len2<-nrow(dt_rm_1st)#
+len2-len1
+dt_rm_3rd <- dt_rm_1st
+dt_rm_3rd
+for(i in 1:10){#
+    	  test<-grep(third_list$V2[i], dt_rm_3rd$domain,value=F)  # grep is checking if string pattern is similar#
+            #third_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_3rd<-dt_rm_3rd[-test, ]#
+              i=i+1}#
+            else i=i+1#
+                  }     #
+len2<-nrow(dt_rm_3rd)#
+len2-len1
+len2
+for(i in 1:99){#
+    	  test<-grep(third_list$V2[i], dt_rm_3rd$domain,value=F)  # grep is checking if string pattern is similar#
+            #third_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_3rd<-dt_rm_3rd[-test, ]#
+              i=i+1}#
+            else i=i+1#
+                  }     #
+len2<-nrow(dt_rm_3rd)#
+len2-len1
+len2
+len2/len0
+nrow(third_list)
+dt_rm_3rd
+dt_rm_3rd$domain
+rm(list=ls())   #clear all data
+# install.packages("data.table")#
+library(data.table)#
+main_dir <- "~/Desktop/Big data/R" # setting data folder#
+#
+# GET PATHS -----------------#
+assignments <- list.files(file.path(main_dir), pattern = "^slotinfo_IP_1gb.*csv$", full.names = T)#
+#
+# IMPORT DATA ----------------------------------------#
+#
+## assignment data#
+dt_assign <- fread(assignments, sep = ',')#
+setnames(dt_assign, names(dt_assign), c('slotid', 'slotname','page_num','page_name','sequence','protocol','domain', 'url','total_request','ip_address')) # rename data#
+len0<- nrow(dt_assign)#
+## import known first party and 3rd party list#
+first_list <- read.csv("~/Desktop/Big data/R/first_party_domain.csv", head=F)#
+third_list <- read.csv("~/Desktop/Big data/R/3rd_party_list.csv", head=F)#
+#  Number of occurence for each uni_domain---------------------#
+uni_domain<-unique(dt_assign$domain, incomparables = FALSE);  # unique domains#
+uni_ID<-unique(dt_assign$slotid, incomparables = FALSE);#
+count<-NULL;#
+m1<-NULL#
+for (i in 1:length(uni_domain)-1) {#
+m1<-dt_assign[dt_assign$domain==uni_domain[i], ]; #
+count[i]<-nrow(unique(m1,by='slotid'));      # number of occurance for domain#
+count<-c(count,count[i]);#
+i=i+1;#
+#
+}#
+#
+sum<-data.frame(count,uni_domain);#
+#write.csv(sum1, file="~/Desktop/full_3rd.csv"); # Excel 1#
+#
+#sub<-setdiff(sub$uni_domain,image);  sub<-setdiff(sub$uni_domain,metric)  # exclude image and metrix#
+# coding methods-------------------------Indicate your code here---------------------------#
+## Seperate id patterns: 000-xxx, xxx:000,xxxx000-xxx#
+## Or we can subtract the string: 15 characters in the middle
+write.csv(sum, file="~/Desktop/full_3rd.csv"); # Excel 1
+is.integer0 <- function(x)            #use this function for the condition in 'if'#
+{#
+  is.integer(x) && length(x) == 0L#
+}#
+# check if registrant [i] is in the 1st party list, if yes, tag=1#
+test<-NULL#
+dt_rm_1st <- dt_assign#
+#
+for(j in 1:nrow(first_list)){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            first_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+              j=j+1}#
+            else j=j+1#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+test<-NULL#
+dt_rm_1st <- dt_assign#
+firt_rm<- NULL#
+#
+for(j in 1:nrow(first_list)){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            first_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+              j=j+1}#
+            else j=j+1#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+test<-NULL#
+dt_rm_1st <- dt_assign#
+first_rm<- NULL#
+#
+for(j in 1:nrow(first_list)){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+            first_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+              j=j+1}#
+            else j=j+1#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+test<-NULL#
+dt_rm_1st <- dt_assign#
+#first_rm<- NULL#
+#
+for(j in 1:nrow(first_list)){#
+    	  test<-grep(first_list$V1[j], dt_rm_1st$domain,value=F)  # grep is checking if string pattern is similar#
+           # first_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_1st<-dt_rm_1st[-test, ]#
+              j=j+1}#
+            else j=j+1#
+                  }     #
+len1<-nrow(dt_rm_1st)#
+len1-len0
+len1_percen<-len1/len0
+len1
+len1_percent
+len1_percent <-len1/len0
+test<-NULL#
+dt_rm_3rd <- dt_rm_1st#
+ for(i in 1:nrow(third_list)){#
+    	  test<-grep(third_list$V2[i], dt_rm_3rd$domain,value=F)  # grep is checking if string pattern is similar#
+            #third_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_3rd<-dt_rm_3rd[-test, ]#
+              i=i+1}#
+            else i=i+1#
+                  }     #
+len2<-nrow(dt_rm_3rd)#
+len2-len1
+len2/len0
+cdn_list<-c("Akamai","Amazon","Bitgravity","Cachefly","CDN77","CDNetworks","CDNify",#
+            "ChinaCache","ChinaNetCenter","EdgeCast","Fastly","Highwinds","Incapsula","Internap",#
+            "KeyCDN","Leaseweb","Level 3","Limelight","MaxCDN","NGENIX","SkyparkCDN","Telefónica","XCDN")
+cdn_list
+cdn_list[1]
+tolower(cdn_list[1])
+test<-NULL#
+dt_rm_cdn <- dt_rm_3rd
+test<-NULL#
+dt_rm_cdn <- dt_rm_3rd#
+for(i in 1:nrow(cdn_list)){#
+    	  test<-grep(tolower(cdn_list[i]), dt_rm_cdn$domain,value=F)  # grep is checking if string pattern is similar#
+            #third_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_cdn<-dt_rm_cdn[-test, ]#
+              i=i+1}#
+            else i=i+1#
+                  }     #
+len3<-nrow(dt_rm_cdn)#
+len3-len2#
+len2_percent <-len3/len0
+length(cdn_list)
+test<-NULL#
+dt_rm_cdn <- dt_rm_3rd#
+for(i in 1:length(cdn_list)){#
+    	  test<-grep(tolower(cdn_list[i]), dt_rm_cdn$domain,value=F)  # grep is checking if string pattern is similar#
+            #third_rm<-rbind(first_rm,dt_assign[k])#
+            if (is.integer0(test)== F) {#
+             dt_rm_cdn<-dt_rm_cdn[-test, ]#
+              i=i+1}#
+            else i=i+1#
+                  }     #
+len3<-nrow(dt_rm_cdn)#
+len3-len2#
+len2_percent <-len3/len0
+lenlen2_percent <-len2/len0
+len2_percent <-len2/len0
+len3_percent <-len3/len0
+len3/len0
+write.csv(dt_rm_cdn, file="~/Desktop/1st_3rd_cdn removed.csv");
+len3/len0
+ls()
+load("/Users/wangweizhi/Desktop/remove.RData")
+~/Desktop/1st_3rd_cdn removed.csvsave.image("")
+save.image(dt_rm_cdn,file="~/Desktop/1st_3rd_cdn removed.csv")
+save(dt_rm_cdn,file="~/Desktop/1st_3rd_cdn removed.csv")
+save.image(file=""~/Desktop/remove.RData")
+write.csv(dt_rm_cdn, file="~/Desktop/1st_3rd_cdn removed.csv");
+rm(firt_rm,i,j,len1_percen,lenlen2_percent,m1,test)
+?save.image
+save.image(file="remove.RData")
+?save.image
+save.image(file="~/Desktop/remove.RData")
+## Compare distributions for different treatments and control group#
+library("sm")#
+attach(mtcars)#
+B1_id<-read.csv("~/Desktop/ISSDA-CER/result/sum_month_id/monthly_sum_treatment_B1.csv", head=T)#
+## create value labels #
+tariff.f<- factor(B1_id$tariff, levels= c("B","E"),#
+labels = c("B1", "Control")) #
+## plot histogram#
+E <- B1_id[B1_id$tariff=="E", ]#
+B1 <-B1_id[B1_i$tariff=="A", ]#
+hist(E$kwh)
+## Compare distributions for different treatments and control group#
+library("sm")#
+attach(mtcars)#
+B1_id<-read.csv("~/Desktop/ISSDA-CER/result/sum_month_id/monthly_sum_treatment_B1.csv", head=T)#
+## create value labels #
+tariff.f<- factor(B1_id$tariff, levels= c("B","E"),#
+labels = c("B1", "Control")) #
+## plot histogram#
+E <- B1_id[B1_id$tariff=="E", ]#
+B1 <-B1_id[B1_id$tariff=="A", ]#
+hist(E$kwh)
+hist(B1$kwh)
+B1
+B1 <-B1_id[B1_id$tariff=="A", ]
+B2
+B1
+B1_id
+summary(B1_id)
+B1 <-B1_id[B1_id$tariff=="B", ]
+hist(B1$kwh)
+## plot densities #
+sm.density.compare(B1_id$kwh, B1_id$tariff, xlab="Kwh per month")#
+title(main="Density Distribution of B1 and Control")#
+## add legend via mouse click#
+colfill<-c(2:(2+length(levels(tariff.f)))) #
+legend(locator(1), levels(tariff.f), fill=colfill)
+## add legend via mouse click#
+colfill<-c(2:(2+length(levels(tariff.f)))) #
+legend(locator(1), levels(tariff.f), fill=colfill)
+load("/Users/wangweizhi/Desktop/ISSDA-CER/code/remove.RData")
