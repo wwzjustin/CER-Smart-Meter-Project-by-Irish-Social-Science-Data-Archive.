@@ -88,9 +88,13 @@ Talked in detail of Domestic ToU ***tarrif*** (A,B,C,D), weekend tarrif (W), and
 * The structure of cer11080: 
      * 2.0. Underlining technology: not something we care about
      * 3.0. CBT key findings: Eg. reduce overall electricity usage by 2.5% and peak usage by 8.8%; reducing peak usage with a peak shift of 11.3%; 82% of participants made some change to the way they use electricity due to the Trial with 74% stating major changes were made by their households
+        * Family members, No. of children are important
+        * Different tarrifs are not so effective, difference in stimulus is
+        * **In the Excel of post survey we have a list of: OLR (58% recalled using), IHD, Statement 1, Statement 2(per month or bi-month; different from bill), Tarrif, stimulus**
      * 4.0. Cost-benefit analysis:  net present value (NPV) of the project in 2011    
-![NPV](https://github.com/justinishere/Justin_CER/blob/master/markdown/npv.png)
+![NPV](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/npv.png)
      * 5.0. Future steps
+
 
 ###3. cer11080(a): 
 ####11080(a)(i): ***very important***, every detail of how the electric trial is designed, and how data analyzed. Begin reading from  *6.0. :Approach to Data Analysis* Some take aways- 
