@@ -92,7 +92,7 @@ Talked in detail of Domestic ToU ***tarrif*** (A,B,C,D), weekend tarrif (W), and
         * Different tarrifs are not so effective, difference in stimulus is
         * **In the Excel of post survey we have a list of: OLR (58% recalled using), IHD, Statement 1, Statement 2(per month or bi-month; different from bill), Tarrif, stimulus**
      * 4.0. Cost-benefit analysis:  net present value (NPV) of the project in 2011    
-![NPV](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/npv.png)
+![NPV](https://github.com/justinishere/Justin_CER/blob/master/markdown/npv.png)
      * 5.0. Future steps
 
 
