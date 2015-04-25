@@ -12,13 +12,13 @@ CER Smart Meter Project by Irish Social Science Data Archive
 
 1. *Electricity Customer Behaviour Trial*:
 During 2009 and 2010, with over 5,000 Irish homes and businesses
-![Elec Time](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/time1.png)
+![Elec Time](https://github.com/justinishere/Justin_CER/blob/master/markdown/time1.png)
 
 
 
 
 2. *Gas Customer Behaviour Trial*:	During 2010 and 2011 with nearly 2,000 Irish homes.
-![Gas Time](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/time2.png)
+![Gas Time](https://github.com/justinishere/Justin_CER/blob/master/markdown/time2.png)
 
 
 
@@ -68,14 +68,14 @@ During 2009 and 2010, with over 5,000 Irish homes and businesses
 ##Folder of 'Documentation'
 ###1. cer09163: 
 Talked in detail of Domestic ToU ***tarrif*** (A,B,C,D), weekend tarrif (W), and genertal perpose tarrif(A,B)
-![tarrif small](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/tarrif.png)
+![tarrif small](https://github.com/justinishere/Justin_CER/blob/master/markdown/tarrif.png)
 ###2. cer11080: For Electric trial
 * This file is the conclusion of cer11080(a), cer110080(b), cer11080(c). Cer11080(a) also has (a)(i) and (a)(ii). These files can all be Google found.
 * The structure of cer11080: 
      * 2.0. Underlining technology: not something we care about
      * 3.0. CBT key findings: Eg. reduce overall electricity usage by 2.5% and peak usage by 8.8%; reducing peak usage with a peak shift of 11.3%; 82% of participants made some change to the way they use electricity due to the Trial with 74% stating major changes were made by their households
      * 4.0. Cost-benefit analysis:  net present value (NPV) of the project in 2011    
-![NPV](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/npv.png)
+![NPV](https://github.com/justinishere/Justin_CER/blob/master/markdown/npv.png)
      * 5.0. Future steps
 
 ###3. cer11080(a): 
@@ -83,23 +83,23 @@ Talked in detail of Domestic ToU ***tarrif*** (A,B,C,D), weekend tarrif (W), and
 
 * Detect a minimum effect of a 2% change in usage over the whole sample of participants and between Tariff A and Tariff C. A change of 3% would be detected at the level of Tariffs B and D and the DSM stimuli and a reduction of 4% would be detected at a Tariffs A and C and at a cellular level. A 90% confidence level is applied to all tests conducted.
 
-![Stimulus](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/stimulus.png)
+![Stimulus](https://github.com/justinishere/Justin_CER/blob/master/markdown/stimulus.png)
 
 
 * Distribution of the data
-![frequency](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/frequen.png)
-![mean](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/mean.png)
+![frequency](https://github.com/justinishere/Justin_CER/blob/master/markdown/frequen.png)
+![mean](https://github.com/justinishere/Justin_CER/blob/master/markdown/mean.png)
 
 
 
 * The way they show % change: Rt and Rc: (Page 60). They looked at Rt-Rc as the % decrease
 
-![ratio](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/ratio.png)
+![ratio](https://github.com/justinishere/Justin_CER/blob/master/markdown/ratio.png)
 
 * P65-P93, Residental key results. For example, **based on the above defined ratio, we have the following % decrease**; also the segmentation results. After P94 is SME key results.
 
 ![% decrease](https://github.com/justinishere/Justin_CER/blob/master/markdown/decrease.png)
-![segementation](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/segment.png)
+![segementation](https://github.com/justinishere/Justin_CER/blob/master/markdown/segment.png)
 
 
 
@@ -111,9 +111,9 @@ Talked in detail of Domestic ToU ***tarrif*** (A,B,C,D), weekend tarrif (W), and
 * ***Missing data***: (zero usage being recorded). Specifically, data is missing for a single day of the study for 114 meters and for two days for 42 meters. **4225=4069+114+42**, and there should be around 700 meters missing all the records.
 
 * P26 defined Night, Day, Peak time. P27 verification of sum. **P30 gives Tp test between ratios**  
-![sum](/Users/wangweizhi/Desktop/ISSDA-CER/markdown//sum.png)
-![t](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/t.png)
-![p](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/p.png)
+![sum](https://github.com/justinishere/Justin_CER/blob/master/markdown/sum.png)
+![t](https://github.com/justinishere/Justin_CER/blob/master/markdown/t.png)
+![p](https://github.com/justinishere/Justin_CER/blob/master/markdown/p.png)
 * The rest pages are detailed results of segementations, focus group, Pre and Post-survey analysis
 
 
