@@ -61,6 +61,20 @@ During 2009 and 2010, with over 5,000 Irish homes and businesses
 #####(2)	Pre and post trial residental surveys:
 * Pre: about 130 questions, 1360 answer participants
 * Post: about 200 questions, 1200 answer participants
+*  ***A quick view of survey questions: in the order of the file***
+  * Segmentation: gender, age (7 groups), employment,social status(A,B,C1,C2,D,E,F), family members+children, rent/own
+  * Attitude: if willing to change, if thinking this project important, etc.
+  * Behavior: 
+     - Q 470 how to heat home, 
+     - Q 54192 and 47031 if they know the rates are changing
+     - Q 54131 household change behavior or not
+     - Q 5414 if bill, overall usage % changes, peak hour
+     - Q 5419 tarrif
+     - Q 5420 5-7pm factors
+     - Q 6022 monitor
+     - Q 6520 Statement
+     - Q 6601 OLR
+
 
 #####(3)	Allocation Excel file 
 ----------
