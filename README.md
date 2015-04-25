@@ -98,7 +98,7 @@ Talked in detail of Domestic ToU ***tarrif*** (A,B,C,D), weekend tarrif (W), and
 
 * P65-P93, Residental key results. For example, **based on the above defined ratio, we have the following % decrease**; also the segmentation results. After P94 is SME key results.
 
-![% decrease](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/decrease.png)
+![% decrease](https://github.com/justinishere/Justin_CER/blob/master/markdown/decrease.png)
 ![segementation](/Users/wangweizhi/Desktop/ISSDA-CER/markdown/segment.png)
 
 
