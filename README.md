@@ -1,5 +1,5 @@
 # Justin_CER
-CER Smart Meter Project by Irish Social Science Data Archive
+CER Smart Meter Project by Irish Social Science Data Archive. During my study at Duke University, I worked as a RA under the guidance of   [Danton Noriega]:		https://github.com/ultinomics and Prof. [Matthew Harding]:    http://people.duke.edu/~mch55/
 
 #Notes on Documentation and Paper Reading
 
